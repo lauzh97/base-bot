@@ -1,0 +1,24 @@
+{
+  "name": "test-bot-2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/lauzh97/test-bot-2#readme",
+  "bugs": {
+    "url": "https://github.com/lauzh97/test-bot-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauzh97/test-bot-2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2"
+  }
+}
