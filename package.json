@@ -1,14 +1,14 @@
 {
-  "name": "test-bot-2",
+  "name": "base-bot",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/lauzh97/test-bot-2#readme",
+  "homepage": "https://github.com/lauzh97/base-bot#readme",
   "bugs": {
-    "url": "https://github.com/lauzh97/test-bot-2/issues"
+    "url": "https://github.com/lauzh97/base-bot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lauzh97/test-bot-2.git"
+    "url": "git+https://github.com/lauzh97/base-bot.git"
   },
   "license": "ISC",
   "author": "",
